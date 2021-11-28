@@ -1,0 +1,9 @@
+step 1:
+	create a database in mysql named as "atm".
+	>type the query (use atm)
+	>type the query( create table user(bal float);)
+	>type the query (insert into table values(500))
+    		i.e. here 500 is minimum balance to be maintained
+step 2: run the python file atm.py by using python interpreter.
+step 3: Enter mysql username and password to use the features of atm program after executing. 
+
